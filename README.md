@@ -33,7 +33,7 @@ To create a Deep Learning algorithm (Artificial Neural Network) that gives us th
 ## Project Insights
 ## Project Insights
 - Using the parameters and hyperparameters mentioned above, we found out that:
-  - The accuracy of the model using the train and validation dataset is 86.13%
-- After running the test dataset we found that the model has an accuracy of 80.36%
+  - The accuracy of the model using the train dataset is 86.13%
+- After running the test dataset we found that the model has an accuracy of 86.05%
 ## Final conclusion
-- Using the parameters and hyperparameters above, we have a test model accuracy of 80.36%. Of course, this can still be improved by altering the parameters and choosing different activation functions and hidden layers. But this model we have presented here predicts that for 10 customers we can predict that 8 of them will buy again.
+- Using the parameters and hyperparameters above, we have a test model accuracy of 86.05%. Of course, this can still be improved by altering the parameters and choosing different activation functions and hidden layers. But this model we have presented here predicts that for 100 employees, it can correctly predict 86 out of 100 of them whether they will leave or stay in the company
