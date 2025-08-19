@@ -29,3 +29,11 @@ To create a Deep Learning algorithm (Artificial Neural Network) that gives us th
   - Train the model with batch size = 32 and epochs = 100
 - Finally, Test the model using the test data
   - Create Confusion Matrix
+
+## Project Insights
+## Project Insights
+- Using the parameters and hyperparameters mentioned above, we found out that:
+  - The accuracy of the model using the train and validation dataset is 86.13%
+- After running the test dataset we found that the model has an accuracy of 80.36%
+## Final conclusion
+- Using the parameters and hyperparameters above, we have a test model accuracy of 80.36%. Of course, this can still be improved by altering the parameters and choosing different activation functions and hidden layers. But this model we have presented here predicts that for 10 customers we can predict that 8 of them will buy again.
