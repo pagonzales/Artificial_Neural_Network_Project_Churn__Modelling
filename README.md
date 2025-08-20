@@ -31,7 +31,6 @@ To create a Deep Learning algorithm (Artificial Neural Network) that gives us th
   - Create Confusion Matrix
 
 ## Project Insights
-## Project Insights
 - Using the parameters and hyperparameters mentioned above, we found out that:
   - The accuracy of the model using the train dataset is 86.13%
 - After running the test dataset we found that the model has an accuracy of 86.05%
